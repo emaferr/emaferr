@@ -4,9 +4,9 @@
 ### aboutMe.js
 
 ```javascript
-const emanuele = {
+const Emanuele = {
     pronouns: "he" | "him",
-    code: [HTML, CSS, SCSS, Javascript],
+    code: [HTML, CSS, SCSS, Javascript,php],
     askMeAbout: ["web dev", "tech", "apple", "crypto", "music", "coffee"],
     technologies: {
         frontEnd: {
