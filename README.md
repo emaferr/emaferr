@@ -6,16 +6,16 @@
 ```javascript
 const Emanuele = {
     pronouns: "he" | "him",
-    code: [HTML, CSS, SCSS, Javascript,php],
-    askMeAbout: ["web dev", "tech", "apple", "crypto", "music", "coffee"],
+    code: [ HTML, CSS, SCSS, Javascript, PHP],
+    askMeAbout: [ "web dev", "tech", "apple", "crypto", "music", "coffee" ],
     technologies: {
         frontEnd: {
-            css: ["Bootstrap"]
-            Javascript: ["VueJs"]
+            css: [ "Bootstrap" ]
+            Javascript: [ "VueJs" ]
         },
         backEnd: {
-            database: ["MySQL"]
-            php: ["Laravel"];
+            database: [ "MySQL" ]
+            php: [ "Laravel" ];
             "...studies in progress"
         }        
     }
