@@ -10,10 +10,12 @@ const emanuele = {
     askMeAbout: ["web dev", "tech", "apple", "crypto", "music", "coffee"],
     technologies: {
         frontEnd: {
-            css: ["bootstrap"]
+            css: ["Bootstrap"]
             Javascript: ["VueJs"]
         },
         backEnd: {
+            database: ["MySQL"]
+            php: ["Laravel"];
             "...studies in progress"
         }        
     }
