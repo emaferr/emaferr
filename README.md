@@ -7,7 +7,7 @@
 const Emanuele = {
     pronouns: "he" | "him",
     code: [ HTML, CSS, SCSS, Javascript, PHP],
-    askMeAbout: [ "web dev", "tech", "apple", "crypto", "music", "coffee" ],
+    askMeAbout: [ "web dev", "tech", "apple", "crypto", "NBA", "music", "coffee" ],
     technologies: {
         frontEnd: {
             css: [ "Bootstrap" ]
@@ -16,7 +16,6 @@ const Emanuele = {
         backEnd: {
             database: [ "MySQL" ]
             php: [ "Laravel" ];
-            "...studies in progress"
         }        
     }
 };
