@@ -1,5 +1,5 @@
 ## Hi there 👋 Welcome to my GitHub! I'm Emanuele Ferrauto 
-### Web developer student at Boolean
+### Junior | Full-Stack Developer
 
 ### aboutMe.js
 
