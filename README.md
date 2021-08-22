@@ -1,5 +1,5 @@
 ## Hi there 👋 Welcome to my GitHub! I'm Emanuele Ferrauto 
-### Junior | Full-Stack Developer
+### Junior  |  Full-Stack Developer
 
 ### aboutMe.js
 
